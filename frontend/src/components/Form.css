@@ -1,0 +1,56 @@
+.form-container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+  }
+  
+  .form-label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #333;
+  }
+  
+  .btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    border-radius: 11px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background: #1477b5;
+    background-image: -webkit-linear-gradient(top, #1477b5, #6200a3);
+    background-image: -moz-linear-gradient(top, #1477b5, #6200a3);
+    background-image: -ms-linear-gradient(top, #1477b5, #6200a3);
+    background-image: -o-linear-gradient(top, #1477b5, #6200a3);
+    background-image: linear-gradient(to bottom, #1477b5, #6200a3);
+    text-decoration: none;
+  }
+  
