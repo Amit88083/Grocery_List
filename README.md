@@ -22,7 +22,9 @@ Features
 Technologies Used
 Frontend:
 •	React (JavaScript library for building user interfaces)
+
 •	Axios (HTTP client for making API requests)
+
 Backend:
 •	Node.js (JavaScript runtime environment)
 •	Express.js (Web application framework for Node.js)
