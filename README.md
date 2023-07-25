@@ -17,6 +17,8 @@ Features
 •	The application ensures that each grocery item's name is unique, regardless of capitalization (i.e., case-insensitive).
 6. Input Validation
 •	The application validates user inputs to ensure that quantity and price are non-negative numbers.
+
+
 Technologies Used
 Frontend:
 •	React (JavaScript library for building user interfaces)
